@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daksh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=Inter
-    &weight=500
-    &size=22
-    &pause=1000
-    &color=FFFFFF
-    &center=true
-    &vCenter=true
-    &width=600
-    &lines=Aspiring+AI+Engineer;
-    Building+Real-World+Projects;
-    Learning+Systems,+Not+Just+Syntax" />
+  <img src="./assets/typing.svg" />
 </p>
+
 
 ---
 
