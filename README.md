@@ -1,6 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Daksh</h1> -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=6000&pause=1000&width=435&lines=%F0%9F%92%AC+**Hi%2C+I%E2%80%99m+Daksh+Choudhary**+;%F0%9F%92%AC+*Building++Web+%26+Open-Source+projects*;%F0%9F%92%AC+*Learning+Python+From+scratch+to+advance*" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=6060&pause=1000&width=435&lines=%F0%9F%92%AC+**Hi%2C+I%E2%80%99m+Daksh+Choudhary**+;%F0%9F%92%AC+*Building++Web+%26+Open-Source+projects*;%F0%9F%92%AC+*Learning+Python+From+scratch+to+advance*" alt="Typing SVG" /></a>
 
 ---
 
@@ -17,10 +15,10 @@
 ## 🛠️ Tech Stack
 
 **Languages**
-- Python, JavaScript, HTML, CSS , C
+- Python, JavaScript( Learning ), HTML, CSS , C
 
 **Frameworks & Tools**
-- React (learning), Git & GitHub
+- Git & GitHub
 - Exploring ( NumPy, Pandas, Matplotlib )
 - VS Code
 
