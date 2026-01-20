@@ -7,7 +7,7 @@
 - 🎯 Focused on **AI, Machine Learning & Web Development**
 - 🧠 Strong believer in **building systems, not just apps**
 - 💻 Learning by **shipping real projects**
-- 🌱 Currently improving **Python, DSA & Full-Stack Development**
+- 🌱 Currently improving **Python, Frontend-Development ( HTML , CSS , Javascript )**
 - 🔍 Exploring **Generative AI & intelligent assistants**
 
 ---
