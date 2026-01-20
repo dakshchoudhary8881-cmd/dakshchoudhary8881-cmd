@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=8000&size=30&duration=6060&pause=1000&width=435&lines=%F0%9F%92%AC+**Hi%2C+I%E2%80%99m+Daksh**+;%F0%9F%92%AC+*Building++Web+%26+Open-Source+projects*;%F0%9F%92%AC+*Learning+Python+From+scratch+to+advance*" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=5500&pause=1000&width=1000&lines=%F0%9F%92%AC+**Hi%2C+I%E2%80%99m+Daksh**+;%F0%9F%92%AC+*Building++Web+%26+Open-Source+projects*;%F0%9F%92%AC+*Learning+Python+From+scratch+to+advance*" alt="Typing SVG" /></a>
 
 ---
 
