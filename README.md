@@ -48,8 +48,8 @@
 ## 🌐 Connect With Me
 
 - 📫 Email: **dakshchoudhary8881@gmail.com**
+- 💼 LinkedIn: *https://www.linkedin.com/in/daksh-choudhary*
 - 🌍 Portfolio: *Coming Soon*
-- 💼 LinkedIn: *https://www.linkedin.com/in/daksh-choudhary-ba4786381/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYffbcsa5S1m0903tqS%2BqaQ%3D%3D*
 
 ---
 
