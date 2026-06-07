@@ -49,7 +49,7 @@
 
 - 📫 Email: **dakshchoudhary8881@gmail.com**
 - 💼 LinkedIn: *https://www.linkedin.com/in/daksh-choudhary*
-- 🌍 Portfolio: *Coming Soon*
+- 🌍 Portfolio: https://dakshchoudhary8881-cmd.github.io/Personal-Portfolio-Website/
 
 ---
 
