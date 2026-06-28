@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="900" height="170">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="55%" style="stop-color:#0d1530"/>
+      <stop offset="100%" style="stop-color:#0a3060"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0070f3;stop-opacity:0.5"/>
+      <stop offset="50%" style="stop-color:#0070f3;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#0070f3;stop-opacity:0.4"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0040a0;stop-opacity:0.3"/>
+      <stop offset="50%" style="stop-color:#0070f3;stop-opacity:0.1"/>
+      <stop offset="100%" style="stop-color:#0040a0;stop-opacity:0.25"/>
+    </linearGradient>
+    <style>
+      .wave1 { animation: flow1 6s ease-in-out infinite alternate; }
+      .wave2 { animation: flow2 8s ease-in-out infinite alternate; }
+      .wave3 { animation: flow3 5s ease-in-out infinite alternate; }
+      .dot   { animation: pulse 3s ease-in-out infinite; }
+      @keyframes flow1 {
+        0%   { d: path("M0,110 C120,75 260,140 420,100 C560,62 700,130 900,90 L900,170 L0,170 Z"); }
+        100% { d: path("M0,95  C140,130 290,68  430,115 C580,148 720,80  900,110 L900,170 L0,170 Z"); }
+      }
+      @keyframes flow2 {
+        0%   { d: path("M0,130 C180,95  360,150 520,118 C680,85  800,140 900,115 L900,170 L0,170 Z"); }
+        100% { d: path("M0,118 C160,148 340,95  510,135 C670,160 810,105 900,130 L900,170 L0,170 Z"); }
+      }
+      @keyframes flow3 {
+        0%   { d: path("M0,148 C200,125 400,158 600,138 C760,120 860,150 900,140 L900,170 L0,170 Z"); }
+        100% { d: path("M0,140 C220,158 410,122 610,148 C770,165 865,135 900,148 L900,170 L0,170 Z"); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.3; }
+        50%       { opacity: 0.9; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="170" fill="url(#bg)"/>
+
+  <!-- Animated waves -->
+  <path class="wave1" d="M0,110 C120,75 260,140 420,100 C560,62 700,130 900,90 L900,170 L0,170 Z" fill="url(#w1)"/>
+  <path class="wave2" d="M0,130 C180,95 360,150 520,118 C680,85 800,140 900,115 L900,170 L0,170 Z" fill="url(#w2)"/>
+  <path class="wave3" d="M0,148 C200,125 400,158 600,138 C760,120 860,150 900,140 L900,170 L0,170 Z" fill="#0070f3" opacity="0.06"/>
+
+  <!-- Accent dots -->
+  <circle class="dot" cx="80"  cy="40" r="1.5" fill="#0070f3" style="animation-delay:0s"/>
+  <circle class="dot" cx="820" cy="35" r="1.5" fill="#0070f3" style="animation-delay:1s"/>
+  <circle class="dot" cx="450" cy="25" r="1"   fill="#0070f3" style="animation-delay:0.5s"/>
+
+  <!-- Name -->
+  <text x="450" y="78"
+        font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+        font-size="42" font-weight="700" fill="#ffffff"
+        text-anchor="middle" letter-spacing="1.5">Daksh Choudhary</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="108"
+        font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+        font-size="12" fill="#6e7681"
+        text-anchor="middle" letter-spacing="3">
+    FRONTEND ENGINEERING INTERN  ·  B.TECH AI &amp; ML  ·  INDIA
+  </text>
+
+  <!-- Underline accent -->
+  <line x1="310" y1="120" x2="590" y2="120" stroke="#0070f3" stroke-width="0.7" opacity="0.4"/>
+</svg>
