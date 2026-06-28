@@ -37,8 +37,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=7AA2F7&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=dakshchoudhary8881-cmd&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/dakshchoudhary8881-cmd?style=for-the-badge&color=7AA2F7&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers"/>
 <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-1A1B27?style=for-the-badge&color=BB9AF7" alt="Open to collaboration"/>
 
 </div>
