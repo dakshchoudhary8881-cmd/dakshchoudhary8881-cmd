@@ -38,9 +38,33 @@ I'm a B.Tech student specialising in Artificial Intelligence & Machine Learning,
 
 My goal is to become a Full Stack AI Engineer, ship products that solve real problems, and eventually build a company around them. I work in public sprints, document everything, and take craftsmanship seriously.
 
-- Frontend Engineering Intern · **Prodesk IT** `2025 – Present`
-- Working through a sprint curriculum: Static Layout → DOM → Async JS → React → Full Stack
 - Open to collaborating on frontend projects, developer tools, and open source contributions
+
+---
+
+## Experience
+
+<table>
+<tr>
+<td width="72px" align="center" valign="top">
+  <img src="https://img.shields.io/badge/-Prodesk_IT-0d1117?style=flat-square&logoColor=white" alt=""/>
+  <br/>
+  <sub><b>2025</b></sub>
+</td>
+<td valign="top">
+
+**Frontend Engineering Intern — Prodesk IT** &nbsp; `2025 – Present`
+
+Working through a structured sprint curriculum building production-quality web applications. Each sprint targets a specific engineering layer.
+
+- **Sprint 01** — Responsive layout, semantic HTML, CSS architecture
+- **Sprint 02** — DOM manipulation, local state, LocalStorage persistence · *Cash-Flow Dashboard*
+- **Sprint 03** — Async JavaScript, REST API integration, client-side caching · *Weather-Cast*
+- **Sprint 04** — React.js component architecture *(upcoming)*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,16 +76,12 @@ My goal is to become a Full Stack AI Engineer, ship products that solve real pro
 [![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
 
-`HTML5 — Moderate` &nbsp; `CSS3 — Moderate` &nbsp; `JavaScript — Moderate`
-
 <br/>
 
 **Programming Languages**
 
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![C](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev)
-
-`Python — Learning` &nbsp; `C — Learning`
 
 <br/>
 
@@ -218,6 +238,19 @@ Later       AI & Machine Learning — supervised learning, model evaluation
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dakshchoudhary8881-cmd&theme=tokyo-night&hide_border=true&area=true&hide_title=true"/>
 
 </div>
+
+---
+
+## Open Source
+
+I'm actively looking to make my first meaningful open source contributions — bug fixes, documentation improvements, or frontend issues in projects I use and respect.
+
+**Currently able to contribute to:**
+- Frontend issues in vanilla JS or early React codebases
+- README and documentation improvements
+- Small utility scripts in JavaScript or Python
+
+If you're a maintainer with a well-scoped beginner-friendly issue, feel free to tag me or reach out directly.
 
 ---
 
