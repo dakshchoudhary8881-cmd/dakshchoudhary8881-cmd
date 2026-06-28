@@ -1,66 +1,98 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1f3c&height=3&section=header" width="100%"/>
+
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1f35,100:0d1117&height=130&section=header&text=Daksh%20Choudhary&fontSize=36&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+%26+ML+Engineering+Student;Frontend+Developer;Building+towards+Full+Stack+AI;Open+Source+Learner)](https://git.io/typing-svg)
-
-<br/>
-
-<p align="center">
-  <a href="https://dakshchoudhary8881-cmd.github.io/Personal-Portfolio-Website/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/daksh-choudhary">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:dakshchoudhary8881@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/dakshchoudhary8881-cmd">
-    <img src="https://img.shields.io/github/followers/dakshchoudhary8881-cmd?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=24292e" alt="Followers"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=dakshchoudhary8881-cmd&style=flat-square&color=6e7681&label=Profile+Views" alt="Profile views"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1f3c&height=280&text=Daksh%20Choudhary&fontSize=64&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%26%20ML%20Student%20%E2%80%94%20Building%20towards%20Full%20Stack%20AI&descSize=17&descFontColor=58A6FF&descAlignY=62&animation=twinkling" width="100%"/>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Two+internships.+Three+live+projects.+One+goal.;Frontend+%E2%86%92+Full+Stack+%E2%86%92+AI+Engineer.;Learning+every+day.+Shipping+every+sprint.)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://dakshchoudhary8881-cmd.github.io/Personal-Portfolio-Website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://www.linkedin.com/in/daksh-choudhary)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:dakshchoudhary8881@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/dakshchoudhary8881-cmd)
+
+<br/>
+
+![Views](https://komarev.com/ghpvc/?username=dakshchoudhary8881-cmd&style=flat-square&color=58A6FF&label=profile+views&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/dakshchoudhary8881-cmd?style=flat-square&label=followers&labelColor=0d1117&color=58A6FF)
+
+</div>
+
+<br/>
+
 ---
 
-## About
+## `$ cat about.json`
 
-I'm a B.Tech student specialising in Artificial Intelligence & Machine Learning, currently working as a Frontend Engineering Intern at Prodesk IT. I build structured, well-documented web applications and am progressing systematically through the full stack — HTML/CSS/JS foundations, then React, then server-side development, with AI running in parallel.
-
-My goal is to become a Full Stack AI Engineer, ship products that solve real problems, and eventually build a company around them. I work in public sprints, document everything, and take craftsmanship seriously.
-
-- Open to collaborating on frontend projects, developer tools, and open source contributions
+```json
+{
+  "name"      : "Daksh Choudhary",
+  "degree"    : "B.Tech — Artificial Intelligence & Machine Learning",
+  "university": "Haridwar University",
+  "status"    : "2nd Year · Actively building",
+  "internships": [
+    "Frontend Engineering Intern  →  Prodesk IT  (2026, ongoing)",
+    "Python Developer Intern      →  3 Skill     (2026, 2 months)"
+  ],
+  "stack"     : ["HTML", "CSS", "JavaScript", "Python", "C"],
+  "learning"  : ["React.js", "Node.js", "AI & ML"],
+  "tools"     : ["Git", "GitHub", "VS Code", "Figma"],
+  "goal"      : "Full Stack AI Engineer → Open Source → Startup"
+}
+```
 
 ---
 
-## Experience
+## `$ ls ./experience`
 
-<table>
+<table width="100%">
 <tr>
-<td width="72px" align="center" valign="top">
-  <img src="https://img.shields.io/badge/-Prodesk_IT-0d1117?style=flat-square&logoColor=white" alt=""/>
-  <br/>
-  <sub><b>2025</b></sub>
+<td valign="top" width="72">
+<br/>
+<img src="https://github.com/dakshchoudhary8881-cmd/Internship_PRODESK_IT/raw/main/logo.png" width="56"/>
 </td>
 <td valign="top">
+<br/>
 
-**Frontend Engineering Intern — Prodesk IT** &nbsp; `2025 – Present`
+**Frontend Engineering Intern &nbsp;·&nbsp; Prodesk IT** &nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/Jan_2026_–_Present-0d1f3c?style=flat-square&logoColor=white)
 
-Working through a structured sprint curriculum building production-quality web applications. Each sprint targets a specific engineering layer.
+Structured sprint curriculum — each sprint ships a live production-ready application.
 
-- **Sprint 01** — Responsive layout, semantic HTML, CSS architecture
-- **Sprint 02** — DOM manipulation, local state, LocalStorage persistence · *Cash-Flow Dashboard*
-- **Sprint 03** — Async JavaScript, REST API integration, client-side caching · *Weather-Cast*
-- **Sprint 04** — React.js component architecture *(upcoming)*
+| | Sprint | What I Built | Live |
+|--|--------|-------------|------|
+| `S1` | Responsive Layout | Prodesk IT company landing page — semantic HTML, mobile-first CSS | [![](https://img.shields.io/badge/↗_Live-238636?style=flat-square)](https://internship-prodesk-it.vercel.app/) |
+| `S2` | DOM & State | Cash-Flow Dashboard — Chart.js, jsPDF, Frankfurter API, LocalStorage | [![](https://img.shields.io/badge/↗_Live-238636?style=flat-square)](https://internship-prodesk-it-uldp.vercel.app/) |
+| `S3` | Async JS & APIs | Weather-Cast — async/await, REST, Geolocation, 10-min cache, Canvas | [![](https://img.shields.io/badge/↗_Live-238636?style=flat-square)](https://internship-prodesk-it-gb4g.vercel.app/) |
+| `S4` | React.js | *(upcoming)* | — |
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="top" width="72">
+<br/>
+<img src="https://img.shields.io/badge/3-SKILL-58A6FF?style=for-the-badge&logoColor=white" width="72"/>
+</td>
+<td valign="top">
+<br/>
+
+**Python Developer Intern &nbsp;·&nbsp; 3 Skill** &nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/2026_·_2_Months-0d1f3c?style=flat-square)
+
+Completed a structured Python internship focused on language fundamentals and applied programming.
+
+`Python Syntax` &nbsp;·&nbsp; `OOP` &nbsp;·&nbsp; `File I/O` &nbsp;·&nbsp; `Exception Handling` &nbsp;·&nbsp; `Standard Library`
 
 </td>
 </tr>
@@ -68,86 +100,61 @@ Working through a structured sprint curriculum building production-quality web a
 
 ---
 
-## Skills
-
-**Frontend**
-
-[![HTML5](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
-[![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+## `$ ls ./projects`
 
 <br/>
 
-**Programming Languages**
-
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
-[![C](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-**Developer Tools**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-**Currently Learning**
-
-[![Learning](https://skillicons.dev/icons?i=react,nodejs&theme=dark)](https://skillicons.dev)
-
-`React.js` &nbsp; `Node.js` &nbsp; `AI & Machine Learning`
-
----
-
-## Featured Projects
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-<div align="center">
 
-**Prodesk IT — Landing Page**
+### ⚡ Weather-Cast
+> *Sprint 03 · Prodesk IT*
 
-A responsive, multi-section company landing page built with semantic HTML and CSS. Features smooth scroll, hero animation, and a mobile-first layout.
+Real-time weather dashboard. Fetches live atmospheric data, caches responses for 10 minutes, auto-detects user location, and shifts the entire UI theme based on weather conditions.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Engineering highlights:**
+- `async/await` with full `try/catch` error handling
+- 10-min `localStorage` cache — zero repeat API hits
+- `navigator.geolocation` for auto location load
+- Canvas particle system (rain / snow / clear states)
+- Condition-driven CSS theming (6 weather themes)
+
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/REST_API-58A6FF?style=flat-square)
+![Canvas](https://img.shields.io/badge/Canvas-24292e?style=flat-square)
 
 <br/>
 
-<a href="https://internship-prodesk-it-uldp.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logoColor=white" alt="Live Demo"/>
-</a>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://internship-prodesk-it-gb4g.vercel.app/)
 &nbsp;
-<a href="https://github.com/dakshchoudhary8881-cmd">
-  <img src="https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logoColor=white" alt="Source Code"/>
-</a>
+[![Source](https://img.shields.io/badge/Source_Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dakshchoudhary8881-cmd/Internship_PRODESK_IT/tree/main/Sprint_3)
 
-</div>
 </td>
 <td width="50%" valign="top">
-<div align="center">
 
-**Cash-Flow Dashboard**
+### 💰 Cash-Flow Dashboard
+> *Sprint 02 · Prodesk IT*
 
-A client-side finance tracker with real-time balance, Chart.js visualisations, PDF export, multi-currency conversion via the Frankfurter API, and LocalStorage persistence.
+Client-side personal finance manager. Tracks income and expenses, visualises spending patterns, exports PDF reports, and converts between 5 currencies — all with zero backend.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![jsPDF](https://img.shields.io/badge/jsPDF-CC0000?style=flat-square&logoColor=white)
+**Engineering highlights:**
+- Chart.js bar + pie charts for spending breakdown
+- PDF export via `jsPDF` in one click
+- Live currency conversion — Frankfurter API
+- Low-balance threshold alerts
+- Full `localStorage` persistence across sessions
+
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![ChartJS](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![jsPDF](https://img.shields.io/badge/jsPDF-EA4335?style=flat-square)
 
 <br/>
 
-<a href="https://internship-prodesk-it-uldp.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logoColor=white" alt="Live Demo"/>
-</a>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://internship-prodesk-it-uldp.vercel.app/)
 &nbsp;
-<a href="https://github.com/dakshchoudhary8881-cmd">
-  <img src="https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logoColor=white" alt="Source Code"/>
-</a>
+[![Source](https://img.shields.io/badge/Source_Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dakshchoudhary8881-cmd/Internship_PRODESK_IT/tree/main/Sprint_2)
 
-</div>
 </td>
 </tr>
 
@@ -155,126 +162,138 @@ A client-side finance tracker with real-time balance, Chart.js visualisations, P
 
 <tr>
 <td width="50%" valign="top">
-<div align="center">
 
-**Personal Portfolio Website**
+### 🌐 Personal Portfolio
+> *Independent*
 
-A fully responsive developer portfolio built from scratch — no frameworks. Features project cards, a contact form, smooth scroll, and mobile-first layout.
+Responsive developer portfolio — zero frameworks. Features project showcases, smooth scroll, contact form, and a mobile-first layout built entirely from scratch.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <br/>
 
-<a href="https://dakshchoudhary8881-cmd.github.io/Personal-Portfolio-Website/">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logoColor=white" alt="Live Demo"/>
-</a>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://dakshchoudhary8881-cmd.github.io/Personal-Portfolio-Website/)
 &nbsp;
-<a href="https://github.com/dakshchoudhary8881-cmd">
-  <img src="https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logoColor=white" alt="Source Code"/>
-</a>
+[![Source](https://img.shields.io/badge/Source_Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dakshchoudhary8881-cmd)
 
-</div>
 </td>
 <td width="50%" valign="top">
-<div align="center">
 
-**Lakshya School Website**
+### 🏫 Lakshya School Website
+> *Independent*
 
-A multi-page institutional website covering admissions, faculty, and academics. Built with a responsive grid layout and clean typographic hierarchy.
+Multi-page institutional website covering admissions, faculty, and academics. Responsive grid layout with clean typographic hierarchy — no CSS framework used.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <br/>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logoColor=white" alt="Live Demo"/>
-</a>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white)](#)
 &nbsp;
-<a href="https://github.com/dakshchoudhary8881-cmd">
-  <img src="https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logoColor=white" alt="Source Code"/>
-</a>
+[![Source](https://img.shields.io/badge/Source_Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dakshchoudhary8881-cmd)
 
-</div>
 </td>
 </tr>
 </table>
 
 ---
 
-## Current Focus
+## `$ cat skills.sh`
 
+```bash
+# ── Frontend ──────────────────────────────────────────
+FRONTEND=("HTML5" "CSS3" "JavaScript")
+
+# ── Languages ─────────────────────────────────────────
+LANGUAGES=("Python" "C")
+
+# ── Tools ─────────────────────────────────────────────
+TOOLS=("Git" "GitHub" "VS Code" "Figma")
+
+# ── Currently Installing ───────────────────────────────
+npm install react         # S4 · Prodesk IT
+npm install node express  # S5 · Prodesk IT
+pip install tensorflow    # AI/ML · parallel track
 ```
-Now         Building responsive UIs with semantic HTML, CSS, and vanilla JS
-            Deepening JavaScript — async patterns, DOM architecture, APIs
 
-Next        React.js — component model, hooks, state management
-            Node.js — server fundamentals, REST API design
-
-Later       AI & Machine Learning — supervised learning, model evaluation
-            First open source contributions
-            Full-stack AI project (end-to-end)
-```
-
----
-
-## GitHub Statistics
+<br/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dakshchoudhary8881-cmd&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshchoudhary8881-cmd&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6"/>
-
-<br/><br/>
-
-<img width="68%" src="https://streak-stats.demolab.com?user=dakshchoudhary8881-cmd&theme=tokyo-night&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dakshchoudhary8881-cmd&theme=tokyo-night&hide_border=true&area=true&hide_title=true"/>
+[![](https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode,figma,react,nodejs&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## Open Source
+## `$ cat roadmap.txt`
 
-I'm actively looking to make my first meaningful open source contributions — bug fixes, documentation improvements, or frontend issues in projects I use and respect.
-
-**Currently able to contribute to:**
-- Frontend issues in vanilla JS or early React codebases
-- README and documentation improvements
-- Small utility scripts in JavaScript or Python
-
-If you're a maintainer with a well-scoped beginner-friendly issue, feel free to tag me or reach out directly.
+```
+ STATUS   TASK                                      ETA
+ ──────   ────────────────────────────────────────  ──────────────
+ [DONE]   Sprint 01 — Responsive layout             Jan 2026
+ [DONE]   Sprint 02 — DOM & client-side state       Feb 2026
+ [DONE]   Sprint 03 — Async JS & REST APIs          Mar 2026
+ [DONE]   Python internship — 3 Skill               2026
+ [ WIP ]  Sprint 04 — React.js architecture         2026
+ [NEXT]   Sprint 05 — Node.js + Express             2026
+ [NEXT]   First open source contribution            2026
+ [ ... ]  MongoDB · Full stack integration          2026
+ [ ... ]  End-to-end AI-powered product             2026–2027
+ [ ... ]  Startup                                   TBD
+```
 
 ---
 
-## Contact
-
-I'm reachable and respond promptly. If you're a recruiter, a developer looking to collaborate, or someone building something worth working on — reach out.
+## `$ git log --stats`
 
 <div align="center">
 
-<a href="https://dakshchoudhary8881-cmd.github.io/Personal-Portfolio-Website/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=dakshchoudhary8881-cmd&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=8"/>
 &nbsp;
-<a href="https://www.linkedin.com/in/daksh-choudhary">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshchoudhary8881-cmd&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=8"/>
+
+<br/><br/>
+
+<img width="66%" src="https://streak-stats.demolab.com?user=dakshchoudhary8881-cmd&theme=tokyo-night&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=8"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dakshchoudhary8881-cmd&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## `$ open collab.md`
+
+I'm actively looking to make my first open source contributions.
+
+If you're a maintainer with a well-scoped issue — a frontend bug, a documentation fix, or a small Python script — tag me. I'll take ownership of it, document it properly, and ship it.
+
+**I can contribute to now:** `Vanilla JS` &nbsp;·&nbsp; `Python scripts` &nbsp;·&nbsp; `README rewrites` &nbsp;·&nbsp; `HTML/CSS fixes`
+
+---
+
+## `$ ping contact`
+
+<div align="center">
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dakshchoudhary8881-cmd.github.io/Personal-Portfolio-Website/)
 &nbsp;
-<a href="https://github.com/dakshchoudhary8881-cmd">
-  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-choudhary)
 &nbsp;
-<a href="mailto:dakshchoudhary8881@gmail.com">
-  <img src="https://img.shields.io/badge/dakshchoudhary8881@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dakshchoudhary8881-cmd)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshchoudhary8881@gmail.com)
+
+<br/>
 
 </div>
 
@@ -282,8 +301,6 @@ I'm reachable and respond promptly. If you're a recruiter, a developer looking t
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1f35,100:0d1117&height=90&section=footer" width="100%"/>
-
-<sub>Thanks for visiting. I'm always open to collaborating on meaningful projects and continuing to grow as an engineer.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0d1f3c,100:0d1117&height=120&section=footer&text=Building%20in%20public.%20Open%20to%20opportunities.&fontSize=13&fontColor=58A6FF&fontAlignY=65" width="100%"/>
 
 </div>
