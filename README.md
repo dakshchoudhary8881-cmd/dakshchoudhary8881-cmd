@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+%26+ML+Engineering+Student;Frontend+Developer;Building+towards+Full+Stack+AI;Open+Source+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+%26+ML+Engineering+Student;Frontend+Developer;Python+Developer;Building+towards+Full+Stack+AI;Open+Source+Learner)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,11 +34,11 @@
 
 ## About
 
-I'm a B.Tech student specialising in Artificial Intelligence & Machine Learning, currently working as a Frontend Engineering Intern at Prodesk IT. I build structured, well-documented web applications and am progressing systematically through the full stack — HTML/CSS/JS foundations, then React, then server-side development, with AI running in parallel.
+I'm a B.Tech student specialising in Artificial Intelligence & Machine Learning, currently interning as a Frontend Developer at Prodesk IT and as a Python Developer at 3 Skill. I build structured, well-documented projects and am progressing systematically through the full stack — HTML/CSS/JS foundations, then React, then server-side development, with Python and AI running in parallel.
 
 My goal is to become a Full Stack AI Engineer, ship products that solve real problems, and eventually build a company around them. I work in public sprints, document everything, and take craftsmanship seriously.
 
-- Open to collaborating on frontend projects, developer tools, and open source contributions
+- Open to collaborating on frontend projects, Python utilities, and open source contributions
 
 ---
 
@@ -46,21 +46,43 @@ My goal is to become a Full Stack AI Engineer, ship products that solve real pro
 
 <table>
 <tr>
-<td width="72px" align="center" valign="top">
-  <img src="https://img.shields.io/badge/-Prodesk_IT-0d1117?style=flat-square&logoColor=white" alt=""/>
+<td width="80px" align="center" valign="top">
   <br/>
-  <sub><b>2025</b></sub>
+  <img src="https://github.com/dakshchoudhary8881-cmd/Internship_PRODESK_IT/raw/main/logo.png" width="60px" alt="Prodesk IT Logo"/>
 </td>
 <td valign="top">
 
-**Frontend Engineering Intern — Prodesk IT** &nbsp; `2025 – Present`
+**Frontend Engineering Intern — Prodesk IT** &nbsp; `2026 · Ongoing`
 
-Working through a structured sprint curriculum building production-quality web applications. Each sprint targets a specific engineering layer.
+Structured sprint-based programme building production-quality web applications. Each sprint targets a specific engineering layer with a live deployed deliverable.
 
-- **Sprint 01** — Responsive layout, semantic HTML, CSS architecture
-- **Sprint 02** — DOM manipulation, local state, LocalStorage persistence · *Cash-Flow Dashboard*
-- **Sprint 03** — Async JavaScript, REST API integration, client-side caching · *Weather-Cast*
-- **Sprint 04** — React.js component architecture *(upcoming)*
+| Sprint | Project | Focus |
+|--------|---------|-------|
+| Sprint 01 | [Prodesk IT Landing Page](https://internship-prodesk-it.vercel.app/) | Responsive layout, semantic HTML, CSS architecture |
+| Sprint 02 | [Cash-Flow Dashboard](https://internship-prodesk-it-uldp.vercel.app/) | DOM manipulation, Chart.js, LocalStorage, PDF export |
+| Sprint 03 | [Weather-Cast](https://internship-prodesk-it-gb4g.vercel.app/) | Async JS, REST APIs, Geolocation, client-side caching |
+| Sprint 04 | *(upcoming)* | React.js component architecture |
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="80px" align="center" valign="top">
+  <br/>
+  <img src="https://img.shields.io/badge/3_Skill-1a1f35?style=for-the-badge&logoColor=white" alt="3 Skill"/>
+</td>
+<td valign="top">
+
+**Python Developer Intern — 3 Skill** &nbsp; `2026 · 2 months`
+
+Completed a structured Python development internship covering core language fundamentals and practical programming skills.
+
+- Python syntax, data types, control flow, and functions
+- Object-oriented programming concepts and application
+- File handling, modules, and standard library usage
+- Hands-on exercises and project-based learning throughout
 
 </td>
 </tr>
@@ -116,11 +138,11 @@ A responsive, multi-section company landing page built with semantic HTML and CS
 
 <br/>
 
-<a href="https://internship-prodesk-it-uldp.vercel.app/">
+<a href="https://internship-prodesk-it.vercel.app/">
   <img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logoColor=white" alt="Live Demo"/>
 </a>
 &nbsp;
-<a href="https://github.com/dakshchoudhary8881-cmd">
+<a href="https://github.com/dakshchoudhary8881-cmd/Internship_PRODESK_IT/tree/main/Sprint_1">
   <img src="https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logoColor=white" alt="Source Code"/>
 </a>
 
@@ -143,7 +165,7 @@ A client-side finance tracker with real-time balance, Chart.js visualisations, P
   <img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logoColor=white" alt="Live Demo"/>
 </a>
 &nbsp;
-<a href="https://github.com/dakshchoudhary8881-cmd">
+<a href="https://github.com/dakshchoudhary8881-cmd/Internship_PRODESK_IT/tree/main/Sprint_2">
   <img src="https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logoColor=white" alt="Source Code"/>
 </a>
 
@@ -154,6 +176,29 @@ A client-side finance tracker with real-time balance, Chart.js visualisations, P
 <tr><td colspan="2"><br/></td></tr>
 
 <tr>
+<td width="50%" valign="top">
+<div align="center">
+
+**Weather-Cast**
+
+A live weather integration module using async/await, OpenWeatherMap API, 10-minute LocalStorage caching, geolocation auto-discovery, and condition-driven CSS theming.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=flat-square&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-24292e?style=flat-square&logoColor=white)
+
+<br/>
+
+<a href="https://internship-prodesk-it-gb4g.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+</a>
+&nbsp;
+<a href="https://github.com/dakshchoudhary8881-cmd/Internship_PRODESK_IT/tree/main/Sprint_3">
+  <img src="https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logoColor=white" alt="Source Code"/>
+</a>
+
+</div>
+</td>
 <td width="50%" valign="top">
 <div align="center">
 
@@ -177,29 +222,6 @@ A fully responsive developer portfolio built from scratch — no frameworks. Fea
 
 </div>
 </td>
-<td width="50%" valign="top">
-<div align="center">
-
-**Lakshya School Website**
-
-A multi-page institutional website covering admissions, faculty, and academics. Built with a responsive grid layout and clean typographic hierarchy.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-<br/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logoColor=white" alt="Live Demo"/>
-</a>
-&nbsp;
-<a href="https://github.com/dakshchoudhary8881-cmd">
-  <img src="https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logoColor=white" alt="Source Code"/>
-</a>
-
-</div>
-</td>
 </tr>
 </table>
 
@@ -210,6 +232,7 @@ A multi-page institutional website covering admissions, faculty, and academics. 
 ```
 Now         Building responsive UIs with semantic HTML, CSS, and vanilla JS
             Deepening JavaScript — async patterns, DOM architecture, APIs
+            Strengthening Python fundamentals from 3 Skill internship
 
 Next        React.js — component model, hooks, state management
             Node.js — server fundamentals, REST API design
