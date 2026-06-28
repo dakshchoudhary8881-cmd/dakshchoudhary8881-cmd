@@ -44,7 +44,7 @@ Long-term, I'm building toward **Full Stack AI Engineering** — clean interface
 
 ## Experience
 
-**Frontend Engineering Intern** &nbsp;·&nbsp; [Prodesk IT](https://prodesk-it.com) &nbsp;·&nbsp; `2025 – Present`
+**Frontend Engineering Intern** &nbsp;·&nbsp; [Prodesk IT](https://prodesk-it.com) &nbsp;·&nbsp; `2026 – Present`
 
 Working inside a structured engineering team with sprint-based delivery cycles. I build responsive, production-ready interfaces, translate design concepts into working components, and ship code that gets reviewed, iterated on, and deployed.
 
