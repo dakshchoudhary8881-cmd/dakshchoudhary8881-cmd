@@ -111,14 +111,14 @@ Sprint-based production frontend under senior engineer review.
 <tr>
 <td width="50%" align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshchoudhary8881-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=fff)](https://github.com/dakshchoudhary8881-cmd)
+[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dakshchoudhary8881-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=fff)](https://github.com/dakshchoudhary8881-cmd)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshchoudhary8881-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=fff)](https://github.com/dakshchoudhary8881-cmd)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dakshchoudhary8881-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=fff)](https://github.com/dakshchoudhary8881-cmd)
 
 </td>
 <td width="50%" align="center">
 
-[![Streak](https://streak-stats.demolab.com?user=dakshchoudhary8881-cmd&theme=highcontrast&hide_border=true&background=0D1117)](https://github.com/dakshchoudhary8881-cmd)
+[![Streak](https://github-readme-streak-stats-eight.vercel.app?user=dakshchoudhary8881-cmd&theme=highcontrast&hide_border=true&background=0D1117)](https://github.com/dakshchoudhary8881-cmd)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=dakshchoudhary8881-cmd&theme=dracula&no-frame=true&row=1&column=4&margin-w=4)](https://github.com/dakshchoudhary8881-cmd)
 
