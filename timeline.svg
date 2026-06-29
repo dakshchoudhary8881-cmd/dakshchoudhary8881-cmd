@@ -1,0 +1,98 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.2"/>
+      <stop offset="50%" style="stop-color:#FFD700;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#FFD700;stop-opacity:0.2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="420" fill="#0D1117" rx="12"/>
+
+  <!-- Title -->
+  <text x="400" y="38" text-anchor="middle" fill="#FFD700" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="4">◈  BUILDER TIMELINE  ◈</text>
+
+  <!-- Central horizontal line -->
+  <rect x="40" y="205" width="720" height="2" fill="url(#lineGrad)"/>
+
+  <!-- ── NODE 1: Dec 2024 ── -->
+  <!-- Dot -->
+  <circle cx="100" cy="206" r="7" fill="#FFD700"/>
+  <circle cx="100" cy="206" r="12" fill="none" stroke="#FFD700" stroke-width="1" opacity="0.4"/>
+  <!-- Card ABOVE -->
+  <rect x="38" y="110" width="124" height="78" rx="6" fill="#161B22" stroke="#FFD700" stroke-width="1"/>
+  <text x="100" y="130" text-anchor="middle" fill="#FFD700" font-family="monospace" font-size="10" font-weight="bold">Dec 2024</text>
+  <line x1="100" y1="133" x2="100" y2="138" stroke="#FFD700" stroke-width="0.5" opacity="0.5"/>
+  <text x="100" y="151" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9.5">Founded</text>
+  <text x="100" y="165" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9.5">Optiq Solutions</text>
+  <text x="100" y="180" text-anchor="middle" fill="#888" font-family="monospace" font-size="8.5">Zero clients.</text>
+  <text x="100" y="191" text-anchor="middle" fill="#888" font-family="monospace" font-size="8.5">Full belief.</text>
+  <!-- Connector -->
+  <line x1="100" y1="188" x2="100" y2="193" stroke="#FFD700" stroke-width="1" stroke-dasharray="3,2"/>
+
+  <!-- ── NODE 2: Jan 2025 ── -->
+  <circle cx="230" cy="206" r="7" fill="#FFD700"/>
+  <circle cx="230" cy="206" r="12" fill="none" stroke="#FFD700" stroke-width="1" opacity="0.4"/>
+  <!-- Card BELOW -->
+  <rect x="168" y="228" width="124" height="78" rx="6" fill="#161B22" stroke="#FFD700" stroke-width="1"/>
+  <line x1="230" y1="218" x2="230" y2="228" stroke="#FFD700" stroke-width="1" stroke-dasharray="3,2"/>
+  <text x="230" y="248" text-anchor="middle" fill="#FFD700" font-family="monospace" font-size="10" font-weight="bold">Jan 2025</text>
+  <text x="230" y="265" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9.5">First Delivery</text>
+  <text x="230" y="279" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9.5">Cafe Kava</text>
+  <text x="230" y="293" text-anchor="middle" fill="#888" font-family="monospace" font-size="8.5">Live business</text>
+  <text x="230" y="305" text-anchor="middle" fill="#888" font-family="monospace" font-size="8.5">website shipped</text>
+
+  <!-- ── NODE 3: 2025 Internship ── -->
+  <circle cx="360" cy="206" r="7" fill="#FFD700"/>
+  <circle cx="360" cy="206" r="12" fill="none" stroke="#FFD700" stroke-width="1" opacity="0.4"/>
+  <!-- Card ABOVE -->
+  <rect x="298" y="105" width="124" height="84" rx="6" fill="#161B22" stroke="#FFD700" stroke-width="1"/>
+  <text x="360" y="125" text-anchor="middle" fill="#FFD700" font-family="monospace" font-size="10" font-weight="bold">2025</text>
+  <line x1="360" y1="128" x2="360" y2="133" stroke="#FFD700" stroke-width="0.5" opacity="0.5"/>
+  <text x="360" y="147" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9.5">Joined Prodesk IT</text>
+  <text x="360" y="161" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9.5">as Frontend Intern</text>
+  <text x="360" y="175" text-anchor="middle" fill="#888" font-family="monospace" font-size="8.5">Sprint 01 &amp; 02</text>
+  <text x="360" y="187" text-anchor="middle" fill="#888" font-family="monospace" font-size="8.5">shipped &amp; reviewed</text>
+  <line x1="360" y1="189" x2="360" y2="194" stroke="#FFD700" stroke-width="1" stroke-dasharray="3,2"/>
+
+  <!-- ── NODE 4: SIH + TIDES ── -->
+  <circle cx="500" cy="206" r="7" fill="#FFD700"/>
+  <circle cx="500" cy="206" r="12" fill="none" stroke="#FFD700" stroke-width="1" opacity="0.4"/>
+  <!-- Card BELOW -->
+  <rect x="438" y="228" width="124" height="84" rx="6" fill="#161B22" stroke="#FFD700" stroke-width="1"/>
+  <line x1="500" y1="218" x2="500" y2="228" stroke="#FFD700" stroke-width="1" stroke-dasharray="3,2"/>
+  <text x="500" y="248" text-anchor="middle" fill="#FFD700" font-family="monospace" font-size="10" font-weight="bold">2025</text>
+  <text x="500" y="265" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9.5">SIH · TIDES</text>
+  <text x="500" y="279" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9.5">GlideCart · FanCart</text>
+  <text x="500" y="293" text-anchor="middle" fill="#888" font-family="monospace" font-size="8.5">National hackathons</text>
+  <text x="500" y="307" text-anchor="middle" fill="#888" font-family="monospace" font-size="8.5">Hardware builder</text>
+
+  <!-- ── NODE 5: Campus Ambassador ── -->
+  <circle cx="630" cy="206" r="7" fill="#FFD700"/>
+  <circle cx="630" cy="206" r="12" fill="none" stroke="#FFD700" stroke-width="1" opacity="0.4"/>
+  <!-- Card ABOVE -->
+  <rect x="568" y="105" width="124" height="84" rx="6" fill="#161B22" stroke="#FFD700" stroke-width="1"/>
+  <text x="630" y="125" text-anchor="middle" fill="#FFD700" font-family="monospace" font-size="10" font-weight="bold">2026</text>
+  <line x1="630" y1="128" x2="630" y2="133" stroke="#FFD700" stroke-width="0.5" opacity="0.5"/>
+  <text x="630" y="147" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9.5">Campus Ambassador</text>
+  <text x="630" y="161" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9.5">IIT Roorkee</text>
+  <text x="630" y="175" text-anchor="middle" fill="#888" font-family="monospace" font-size="8.5">Cognizance 2026</text>
+  <text x="630" y="187" text-anchor="middle" fill="#888" font-family="monospace" font-size="8.5">Selected in 1st year</text>
+  <line x1="630" y1="189" x2="630" y2="194" stroke="#FFD700" stroke-width="1" stroke-dasharray="3,2"/>
+
+  <!-- ── NODE 6: Now ── -->
+  <circle cx="740" cy="206" r="9" fill="#FFD700"/>
+  <circle cx="740" cy="206" r="15" fill="none" stroke="#FFD700" stroke-width="1.5" opacity="0.5"/>
+  <circle cx="740" cy="206" r="20" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.2"/>
+  <!-- Card BELOW -->
+  <rect x="685" y="228" width="100" height="68" rx="6" fill="#FFD700"/>
+  <line x1="740" y1="218" x2="740" y2="228" stroke="#FFD700" stroke-width="1.5"/>
+  <text x="740" y="248" text-anchor="middle" fill="#0D1117" font-family="monospace" font-size="10" font-weight="bold">NOW</text>
+  <text x="740" y="263" text-anchor="middle" fill="#0D1117" font-family="monospace" font-size="9">Still building.</text>
+  <text x="740" y="277" text-anchor="middle" fill="#0D1117" font-family="monospace" font-size="9">Not done yet.</text>
+  <text x="740" y="291" text-anchor="middle" fill="#0D1117" font-family="monospace" font-size="9">▶ Optiq growing</text>
+
+  <!-- Footer label -->
+  <text x="400" y="398" text-anchor="middle" fill="#444" font-family="monospace" font-size="9" letter-spacing="2">dakshchoudhary8881-cmd · github.com</text>
+</svg>
