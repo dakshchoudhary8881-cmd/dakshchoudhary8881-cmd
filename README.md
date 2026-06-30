@@ -97,7 +97,7 @@ Building production-grade frontends from scratch, sprint by sprint, with code re
 
 [![Streak](https://github-readme-streak-stats-eight.vercel.app?user=dakshchoudhary8881-cmd&theme=highcontrast&hide_border=true&background=0D1117)](https://github.com/dakshchoudhary8881-cmd)
 
-[![Trophies](https://raw.githubusercontent.com/dakshchoudhary8881-cmd/dakshchoudhary8881-cmd/main/trophy.svg)](https://github.com/dakshchoudhary8881-cmd)
+[<img src="https://raw.githubusercontent.com/dakshchoudhary8881-cmd/dakshchoudhary8881-cmd/main/trophy.svg" alt="Trophies" width="500" />](https://github.com/dakshchoudhary8881-cmd)
 
 </td>
 </tr>
