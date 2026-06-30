@@ -1,0 +1,37 @@
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: dakshchoudhary8881-cmd
+          output_path: trophy.svg
+          theme: dracula
+          no-frame: "true"
+          row: "1"
+          column: "4"
+          margin-w: "4"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push trophy.svg
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git diff --cached --quiet || git commit -m "chore: update trophy.svg"
+          git push
