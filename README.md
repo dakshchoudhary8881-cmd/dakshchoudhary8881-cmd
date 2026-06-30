@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DAKSH%20CHOUDHARY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%40%20Optiq%20Solutions%20%E2%80%A2%20Frontend%20Engineer%20%E2%80%A2%20IoT%20Builder&descAlignY=52&descSize=16&descColor=fff)](https://github.com/dakshchoudhary8881-cmd)
+[![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DAKSH%20CHOUDHARY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%E2%80%A2%20IoT%20Builder&descAlignY=52&descSize=16&descColor=fff)](https://github.com/dakshchoudhary8881-cmd)
 
-### Founder · Frontend Engineer · IoT Builder · BTech CSE '29
+### Frontend Engineer · IoT Builder · BTech CSE '29
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=500&lines=Building+real+products%2C+not+just+projects.;Founder+%40+Optiq+Solutions+%5BBuilding%5D;Frontend+Intern+%40+Prodesk+IT;Campus+Ambassador+%40+IIT+Roorkee)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=500&lines=Building+real+products%2C+not+just+projects.;Frontend+Intern+%40+Prodesk+IT;Campus+Ambassador+%40+IIT+Roorkee)](https://git.io/typing-svg)
 
 <br>
 
@@ -19,7 +19,6 @@
 
 > Building · Learning · Shipping
 
-- 🏗️ Growing **Optiq Solutions** from ground up — first clients, first deliveries
 - ⚡ Sharpening **JavaScript** fundamentals & learning **React.js**
 - 🤖 Diving into **AI & Machine Learning**
 - 🌱 Getting started with **open source**
@@ -28,37 +27,15 @@
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Optiq Solutions
-**Founder & Lead Developer**
-`Dec 2024 – Present`
-
-Premium digital agency in **active building phase** — delivering Custom Software, AI Solutions & Web Development.
-
-- 🌐 Cafe Kava — live business website
-- 🤖AI automation for the zesty pizzas
-- 📈 More projects in pipeline
-
-</td>
-<td width="50%" valign="top">
-
 ### 💻 Prodesk IT
 **Frontend Engineering Intern**
-`2025 – Present`
+`Jun 2026 – Present`
 
-Sprint-based production frontend under senior engineer review.
+Building production-grade frontends from scratch, sprint by sprint, with code reviewed and refined under a senior engineer — no frameworks, no shortcuts, just clean HTML, CSS, and JS.
 
 - Sprint 01 — Responsive corporate landing page
 - Sprint 02 — Cash-Flow Dashboard
 - And many more Advanced Projects sprints
-- Vanilla HTML · CSS · JS · No frameworks
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -120,7 +97,7 @@ Sprint-based production frontend under senior engineer review.
 
 [![Streak](https://github-readme-streak-stats-eight.vercel.app?user=dakshchoudhary8881-cmd&theme=highcontrast&hide_border=true&background=0D1117)](https://github.com/dakshchoudhary8881-cmd)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dakshchoudhary8881-cmd&theme=dracula&no-frame=true&row=1&column=4&margin-w=4)](https://github.com/dakshchoudhary8881-cmd)
+[![Trophies](https://raw.githubusercontent.com/dakshchoudhary8881-cmd/dakshchoudhary8881-cmd/main/trophy.svg)](https://github.com/dakshchoudhary8881-cmd)
 
 </td>
 </tr>
@@ -133,7 +110,6 @@ Sprint-based production frontend under senior engineer review.
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logoColor=FFD700)](https://dakshchoudhary8881-cmd.github.io/Personal-Portfolio-Website/)
-[![Optiq Solutions](https://img.shields.io/badge/🏢_Optiq_Solutions-000?style=for-the-badge&logoColor=FFD700)](https://optiqsolutions.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-choudhary-ba4786381/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshchoudhary8881@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=000)](https://github.com/dakshchoudhary8881-cmd)
