@@ -27,15 +27,16 @@
 
 ## 💼 Experience
 
-### 💻 Prodesk IT
-**Frontend Engineering Intern**
-`Jun 2026 – Present`
+**💻 Prodesk IT**
+Frontend Engineering Intern `Jun 2026 – Present`
 
-Building production-grade frontends from scratch, sprint by sprint, with code reviewed and refined under a senior engineer — no frameworks, no shortcuts, just clean HTML, CSS, and JS.
+Building production-grade frontends from scratch, sprint by sprint, with code reviewed and refined under a senior engineer — no frameworks, no shortcuts, just clean HTML, CSS, and JS at first, evolving into full React application development.
 
-- Sprint 01 — Responsive corporate landing page
-- Sprint 02 — Cash-Flow Dashboard
-- And many more Advanced Projects sprints
+* 🧩 Shipped 5+ production sprints — from vanilla-JS dashboards to AI-integrated tools to a full React + Vite application
+* 🔁 Progressed from DOM-manipulation fundamentals to component-based, state-driven architecture
+* 🤖 Integrated real third-party APIs (Gemini, Chart.js, PDF parsing) into production-style workflows
+* ⚛️ Transitioned to React 19 in Sprint 05, applying hooks, reusable components, and drag-and-drop interaction patterns
+* 🎯 Every sprint code-reviewed and refined under senior engineering mentorship
 
 ---
 
