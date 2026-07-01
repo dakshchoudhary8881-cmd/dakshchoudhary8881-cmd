@@ -102,7 +102,7 @@ Building production-grade frontends from scratch, sprint by sprint, with code re
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logoColor=FFD700)](https://dakshchoudhary8881-cmd.github.io/Personal-Portfolio-Website/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logoColor=FFD700)](https://portfolio-blush-five-uz1u2p1tkx.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-choudhary-ba4786381/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshchoudhary8881@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=000)](https://github.com/dakshchoudhary8881-cmd)
