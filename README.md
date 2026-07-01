@@ -72,15 +72,7 @@ Building production-grade frontends from scratch, sprint by sprint, with code re
 
 ---
 
-## 🗺️ Builder Timeline
 
-<div align="center">
-
-![Timeline](https://raw.githubusercontent.com/dakshchoudhary8881-cmd/dakshchoudhary8881-cmd/main/timeline.svg)
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
