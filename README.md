@@ -69,7 +69,7 @@ Building production-grade frontends from scratch, sprint by sprint, with code re
 I actively complete industry-recognized certifications in Software Engineering, Cloud Computing, AI, and Cybersecurity.
 
 📂 **Browse all certifications →**
-**https://github.com/dakshchoudhary8881-cmd/Certification**
+**https://github.com/dakshchoudhary8881-cmd/CERTIFICATIONS**
 ---
 
 ## 🛠 Tech Stack
