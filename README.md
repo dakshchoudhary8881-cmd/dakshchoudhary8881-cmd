@@ -64,6 +64,40 @@ Building production-grade frontends from scratch, sprint by sprint, with code re
 </table>
 
 ---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [PHANTOM — 3D Keyboard Product Site](https://phantom-keyboard-3-d-website.vercel.app/)
+
+A cinematic, scroll-driven product landing page built around an interactive 3D keyboard render — engineered to make product design feel tangible before a single spec is read.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Three.js`
+
+🔗 **Live:** [Visit Site](https://phantom-keyboard-3-d-website.vercel.app/)
+📦 **Repo:** [View Code](https://github.com/dakshchoudhary8881-cmd/phantom-keyboard-3-d-website)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Personal Portfolio](https://portfolio-blush-five-uz1u2p1tkx.vercel.app/)
+
+A dark, OrangeRed-accented personal portfolio featuring mouse-tracking 3D card tilt and scroll-driven animations — built from scratch with vanilla HTML, CSS, and JavaScript, no framework overhead.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 **Live:** [Visit Site](https://portfolio-blush-five-uz1u2p1tkx.vercel.app/)
+📦 **Repo:** [View Code](https://github.com/dakshchoudhary8881-cmd/Portfolio)
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🏆 Certifications
 
 I actively complete industry-recognized certifications in Software Engineering, Cloud Computing, AI, and Cybersecurity.
