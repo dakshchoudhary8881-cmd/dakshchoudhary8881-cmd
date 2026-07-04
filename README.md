@@ -64,6 +64,13 @@ Building production-grade frontends from scratch, sprint by sprint, with code re
 </table>
 
 ---
+### 🏆 Certifications
+
+I actively complete industry-recognized certifications in Software Engineering, Cloud Computing, AI, and Cybersecurity.
+
+📂 **Browse all certifications →**
+**https://github.com/dakshchoudhary8881-cmd/Certification**
+---
 
 ## 🛠 Tech Stack
 
@@ -72,7 +79,6 @@ Building production-grade frontends from scratch, sprint by sprint, with code re
 `ESP32` `Arduino` `LoRaWAN` `ADXL345` `L298N` `MAX30102`
 
 ---
-
 
 
 ## 📊 GitHub Stats
